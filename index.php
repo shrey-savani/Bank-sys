@@ -79,19 +79,19 @@
 
             <div class="col-md act">
                 <br><br>
-               <img src="img/customer1.jpg" class="img-fluid" >
+               <img src="image/customer1.jpg" class="img-fluid" >
                 <br><br>
                 <a href="view-user.php"><button>View Users</button></a>
             </div>
             <div class="col-md act">
                 <br><br>
-                <img src="img/transfer2.jpg" class="img-fluid">
+                <img src="image/transfer2.jpg" class="img-fluid">
                 <br><br>
                 <a href="transfer-money.php"><button>Transfer Money</button></a>
             </div>
             <div class="col-md act">
                 <br><br>
-                <img src="img/history1.jpg" class="img-fluid">
+                <img src="image/history1.jpg" class="img-fluid">
                 <br><br>
                 <a href="view-history.php"><button >View History</button></a>
             </div>
